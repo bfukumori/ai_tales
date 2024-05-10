@@ -21,9 +21,11 @@ Mergulhe em um mundo de possibilidades com este RPG de turnos único, onde **sua
 ```
 git clone https://github.com/bfukumori/ai_tales.git
 ```
+2. **Gere sua API key:** [AI Studio](https://aistudio.google.com/app/apikey)
 3. **Acesse o Google Colab:** https://colab.research.google.com/
 4. **Faça upload do arquivo .ipynb:** Clique no botão "Upload" e selecione o arquivo do projeto.
-5. **Execute o notebook:** Execute cada célula em sequência, lendo as instruções e fazendo suas escolhas.
-6. **Divirta-se!**
+5. **Coloque sua API Key:** O nome da chave deve ser GOOGLE_API_KEY. No campo valor você deve copiar a sua API key gerada no passo 2 e ativar o acesso do notebook. 
+6. **Execute o notebook:** Execute cada célula em sequência, lendo as instruções e fazendo suas escolhas.
+7. **Divirta-se!**
 
 **✨  Prepare-se para escrever sua própria história!  ✨**
